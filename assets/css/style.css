@@ -1,0 +1,6 @@
+.btn span.check {    			
+	opacity: 0;				
+}
+.btn.active span.check {				
+	opacity: 1;				
+}
